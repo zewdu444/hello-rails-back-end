@@ -84,6 +84,14 @@ to get random greetings from the API use the following link:
  http://127.0.0.1:3000/api/v1/greetings
 
 ```
+### Frontend
+to get random greetings from the frontend follow the follwing steps:
+```sh
+ git clone https://github.com/zewdu444/hello-react-front-end.git
+ cd hello-react-front-end
+ npm install
+ npm start
+```
 
 
 ## 👥 Authors <a name="authors"></a>
