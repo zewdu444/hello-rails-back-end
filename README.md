@@ -24,6 +24,9 @@
 
 > This repository provides a Rails backend that functions as an API for generating random greeting messages.
 
+### Frontend Repository
+
+- <a href="https://github.com/zewdu444/hello-react-front-end">React Link</a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
