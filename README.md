@@ -20,7 +20,7 @@
 
 - [📝 License](#license)
 
-# :abc: Hello world app <a name="about-project"></a>
+# :abc: Hello world API <a name="about-project"></a>
 
 > This repository provides a Rails backend that functions as an API for generating random greeting messages.
 
