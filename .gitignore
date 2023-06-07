@@ -29,4 +29,5 @@
 /config/master.key
 /node_modules
 
-/config/env.rb
+.env
+```
